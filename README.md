@@ -7,14 +7,21 @@
 
 ## PROJECT DETAILS
 >Predicting patient
+
 >Classify the type of cancer
+
 >Predicting patient outcomes(Health level)
 
 ## WORK FLOW
-1)Brainstorming
-2)Data Collection
-3)Pre-processing
-4)Model Selection
-5)Model Training and Evaluation
-6)Final Deliverable
+- 1)Brainstorming
+
+- 2)Data Collection
+
+- 3)Pre-processing
+
+- 4)Model Selection
+
+- 5)Model Training and Evaluation
+
+- 6)Final Deliverable
 
